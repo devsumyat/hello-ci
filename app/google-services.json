@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "984491648904",
+    "firebase_url": "https://testci-d5c48.firebaseio.com",
+    "project_id": "testci-d5c48",
+    "storage_bucket": "testci-d5c48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984491648904:android:de797a0c72ba43cf",
+        "android_client_info": {
+          "package_name": "com.example.hello_ci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984491648904-5sn9tcancgrt1gd6tqkdmr7fo7ub8m8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc7qK8Mei0fQVFaN6NKJvjX_p2tQ9LFj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984491648904-5sn9tcancgrt1gd6tqkdmr7fo7ub8m8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
