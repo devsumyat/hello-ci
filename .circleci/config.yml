@@ -28,7 +28,7 @@ jobs:
           name: Authorize gcloud and set config defaults
           command: |
             sudo gcloud auth activate-service-account --key-file=test.json
-            sudo gcloud --quiet config set project pelagic-robot-242407
+            sudo gcloud --quiet config set project testci-d5c48
       - run:
           name: Test with Firebase Test Lab
           command: >
