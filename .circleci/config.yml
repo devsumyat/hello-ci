@@ -23,7 +23,7 @@ jobs:
 
       - run:
           name: Store Google Service Account
-          command: echo "echo account"
+          command: echo $GCLOUD_SERVICE_KEY > $test.json
       - run:
           name: Authorize gcloud and set config defaults
           command: |
